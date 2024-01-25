@@ -100,5 +100,9 @@ source $ZSH/oh-my-zsh.sh
 alias zshconfig="nvim ~/.zshrc"
 alias nv=nvim
 alias py=python3.12
+
+alias gcm="git commit -m"
+alias gaa="git add ."
+alias gs="gs"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
