@@ -1,10 +1,10 @@
 inoremap jj <ESC>           " Leave normal mode with jk
 inoremap <C-s> <ESC> :w<CR> " Save with Ctrl-s 
-nnoremap <C-s>  :w<CR> 
+nnoremap <C-s> :w<CR> 
 
 set shortmess=a 
 
-set whichwrap += h,l
+set whichwrap+=h,l
 set nocompatible            " disable compatibility to old-time vi set showmatch               " show matching 
 set ignorecase              " case insensitive 
 set mouse=v                 " middle-click paste with 

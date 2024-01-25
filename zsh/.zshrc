@@ -104,5 +104,6 @@ alias py=python3.12
 alias gcm="git commit -m"
 alias gaa="git add ."
 alias gs="gs"
+alias nvconfig="nvim ~/.config/nvim/init.vim"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
